@@ -4,19 +4,6 @@
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
-class String
-  def zeropad
-    rjust(2, '0')
-  end
-end
-
-# Vietnamese dates
-class Vietnamese < WikipediaDate
-  def to_s
-    date_str.to_s.gsub('đương nhiệm', '').gsub('tháng', '-').gsub('năm', '-').gsub(' ', '').split('-').reverse.map(&:zeropad).join('-')
-  end
-end
-
 class OfficeholderList < OfficeholderListBase
   decorator RemoveReferences
   decorator UnspanAllTables
@@ -29,10 +16,6 @@ class OfficeholderList < OfficeholderListBase
   class Officeholder < OfficeholderBase
     def columns
       %w[no img name start end].freeze
-    end
-
-    def date_class
-      Vietnamese
     end
   end
 end

@@ -4,15 +4,9 @@
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
-class String
-  def zeropad
-    rjust(2, '0')
-  end
-end
-
 class Slashed < WikipediaDate
   def to_s
-    date_str.to_s.gsub('nay', '').tidy.split('/').reverse.map(&:zeropad).join('-')
+    date_str.to_s.gsub('nay', '').tidy.split('/').reverse.map(&:zeropad2).join('-')
   end
 end
 
