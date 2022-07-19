@@ -1,0 +1,96 @@
+{
+  "title": "Lê Minh Khái",
+  "pageID": 70977734,
+  "categories": [
+    "1964 births",
+    "Living people",
+    "People from Bạc Liêu Province",
+    "Communist Party of Vietnam politicians",
+    "Government ministers of Vietnam",
+    "Deputy Prime Ministers of Vietnam"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lê Minh Khái (born 10 December 1964) is a politician of the Communist Party of Vietnam.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Communist Party of Vietnam"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Lê Minh Khái"
+                ]
+              }
+            },
+            {
+              "text": "He is Deputy Prime Minister for General Economics in the Government of Vietnam.",
+              "links": [
+                {
+                  "text": "Deputy Prime Minister for General Economics",
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Vietnam"
+                },
+                {
+                  "type": "internal",
+                  "page": "Government of Vietnam"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:IKXNPCOX71AkG7br28TW3QW9hskls2tW_(cropped).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/IKXNPCOX71AkG7br28TW3QW9hskls2tW_(cropped).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/IKXNPCOX71AkG7br28TW3QW9hskls2tW_(cropped).jpg",
+          "caption": "Lê Minh Khái in 2020.",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Vietnamese politician",
+          "template": "short description"
+        },
+        {
+          "date": "June 2022",
+          "template": "expand vietnamese"
+        }
+      ],
+      "references": [
+        {
+          "last": "baochinhphu.vn",
+          "date": "2017-10-25",
+          "title": "Thủ tướng giới thiệu Bí thư Tỉnh uỷ Bạc Liêu, Sóc Trăng làm Tổng Thanh tra và Bộ trưởng GTVT",
+          "url": "https://baochinhphu.vn/news-102229148.htm",
+          "access-date": "2022-06-09",
+          "website": "baochinhphu.vn",
+          "language": "vi",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "vietnam-politician-stub"
+        }
+      ]
+    }
+  ]
+}

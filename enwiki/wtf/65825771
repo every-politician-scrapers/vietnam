@@ -1,0 +1,129 @@
+{
+  "title": "Nguyễn Thị Hồng (economist)",
+  "pageID": 65825771,
+  "categories": [
+    "1968 births",
+    "Living people",
+    "Governors of the State Bank of Vietnam",
+    "Vietnamese politicians",
+    "Vietnamese economists"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nguyễn Thị Hồng is Vietnamese economist, currently serving as the Governor of the State Bank of Vietnam (SBV) since 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "State Bank of Vietnam"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Nguyễn Thị Hồng"
+                ]
+              }
+            },
+            {
+              "text": "She holds a master's degree in Developmental Economics and started working at SBV in 1991, where she held several management positions."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Vietnamese economist",
+          "template": "short description"
+        },
+        {
+          "year": "1968",
+          "month": "03",
+          "day": "27",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Nguyễn Thị Hồng"
+          },
+          "office": {
+            "text": "Governor of State Bank of Vietnam",
+            "links": [
+              {
+                "type": "internal",
+                "page": "State Bank of Vietnam"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "12 November 2020"
+          },
+          "birth_date": {
+            "text": "March 27, 1968"
+          },
+          "birth_place": {
+            "text": "Cầu Giấy District, Hanoi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cầu Giấy District"
+              },
+              {
+                "type": "internal",
+                "page": "Hanoi"
+              }
+            ]
+          },
+          "image": {
+            "text": "Nguyen Thi Hong 20180702.jpg"
+          }
+        }
+      ],
+      "references": [
+        {
+          "last": "VnExpress",
+          "title": "Vietnam appoints first female central bank governor - VnExpress International",
+          "url": "https://e.vnexpress.net/news/business/economy/vietnam-appoints-first-female-central-bank-governor-4190839.html",
+          "access-date": "2020-11-12",
+          "website": "VnExpress International – Latest news, business, travel and analysis from Vietnam",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "NA approves Mrs. Nguyen Thi Hong to be SBV Governor",
+          "url": "https://www.sbv.gov.vn/webcenter/portal/en/home/sbv/news/news_chitiet?leftWidth=20%25&showFooter=false&showHeader=false&dDocName=SBV424220&rightWidth=0%25&centerWidth=80%25&_afrLoop=7138936615157297#@?_afrLoop=7138936615157297&centerWidth=80%2525&dDocName=SBV424220&leftWidth=20%2525&rightWidth=0%2525&showFooter=false&showHeader=false&_adf.ctrl-state=17rajg6anr_88",
+          "url-status": "live",
+          "access-date": "2020-11-12",
+          "website": "www.sbv.gov.vn",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Tiểu sử bà Nguyễn Thị Hồng, nữ Thống đốc đầu tiên",
+          "url": "https://zingnews.vn/tieu-su-ba-nguyen-thi-hong-nu-thong-doc-dau-tien-post1151622.html",
+          "url-status": "live",
+          "access-date": "2020-11-12",
+          "website": "zingnews.vn",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}
